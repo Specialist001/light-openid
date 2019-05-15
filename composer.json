@@ -1,13 +1,13 @@
 {
-    "name": "itmages/light-openid",
+    "name": "specialist001/light-openid",
     "description": "An PHP 5 library for easy openid authentication. Works only as a consumer.",
     "minimum-stability":"stable",
     "authors": [
         {
-            "name": "Mewp"
+            "name": "Bobur"
         }
     ],
-    "homepage": "http://gitorious.org/lightopenid",
+    "homepage": "http://github.com/Specialist001/light-openid",
     "type": "library",
     "license": "MIT",
     "autoload": {
